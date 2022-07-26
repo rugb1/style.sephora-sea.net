@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Subdomain Takeover By [rugb](https://hackerone.com/rugb)
 
 You can use the [editor on GitHub](https://github.com/rugb1/style.sephora-sea.net/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
